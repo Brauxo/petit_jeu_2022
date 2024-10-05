@@ -1,0 +1,41 @@
+aide
+va ouest
+revenir
+prendre magic_cookie
+manger magic_cookie
+chercher item
+prendre fefef
+prendre pied_de_biche
+prendre clé_labo
+chercher item
+inventaire
+va est
+chercher item
+abandonner clé_labo
+chercher item
+inventaire
+va ouest 
+chercher item
+manger
+va
+va est
+va est
+va haut 
+chercher
+chercher item
+va bas
+va ouest
+va ouest
+va sud
+va tomber
+revenir
+va ouest
+prendre transporteur_de_poche
+va ouest 
+charger transporteur_de_poche
+va est
+va est 
+utiliser transporteur_de_poche
+va est 
+utiliser transporteur_de_poche
+quitter

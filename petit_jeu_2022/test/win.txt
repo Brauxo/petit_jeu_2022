@@ -1,0 +1,34 @@
+va est
+va nord
+va nord
+va sud 
+va sud
+va ouest
+aide
+prendre magic_cookie
+manger magic_cookie
+chercher item
+prendre fefef
+prendre pied_de_biche
+prendre clé_labo
+chercher item
+inventaire
+va est
+chercher item
+abandonner clé_labo
+chercher item
+inventaire
+va ouest 
+chercher item
+manger
+va
+va est
+va est
+va haut 
+chercher
+chercher item
+vas bas
+va ouest
+va est
+prendre kit_de_réparation
+quitter

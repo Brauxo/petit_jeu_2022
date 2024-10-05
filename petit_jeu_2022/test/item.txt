@@ -1,0 +1,13 @@
+chercher item
+prendre fefef
+prendre pied_de_biche
+prendre clé_labo
+chercher item
+inventaire
+va est
+chercher item
+abandonner clé_labo
+chercher item
+inventaire
+va ouest 
+chercher item
